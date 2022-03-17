@@ -10,6 +10,6 @@ Hopefully, our contributions will help inspire those who are passionate about pr
 
 ### Huỳnh Lê Thủy Tiên
 - :bookmark: Student ID: SE151104
-- I'm a crazy member and want to sleep every day! :sleeping:	
+- I'm a member who want to sleep every day! :sleeping:	
 - Main role: Backend Developer and Database Designer :computer:
 - Check out my profile via: [GitHub](https://github.com/tienhuynh-tn)
