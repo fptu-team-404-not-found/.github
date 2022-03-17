@@ -1,4 +1,4 @@
-# <img src=".github/profile/imgs/team-logo.png" width="3%"> WELCOME TO TEAM 404 NOT FOUND :wave:
+# <img src="https://github.com/fptu-team-404-not-found/.github/blob/main/profile/imgs/team-logo.png" width="3%"> WELCOME TO TEAM 404 NOT FOUND :wave:
 
 We are students from the 5th term of the Spring 2022 semester from FPT University HCMC. 
 
